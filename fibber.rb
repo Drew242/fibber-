@@ -16,7 +16,7 @@
   end
 
   def jagged_output(fibber)
-  # working on method
+  
   end
 
 
